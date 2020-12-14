@@ -1,5 +1,5 @@
 
-### Title:  Udacity - Data Science - Assignment 1 by Mark Lewis
+### Title:  Udacity - Data Science - Assignment 1 
 
 
 ### Introduction:
